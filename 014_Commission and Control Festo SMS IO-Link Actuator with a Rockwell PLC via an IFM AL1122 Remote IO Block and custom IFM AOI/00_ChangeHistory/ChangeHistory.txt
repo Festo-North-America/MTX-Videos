@@ -1,0 +1,17 @@
+===============================================================
+Advice to Released Firmware Revisions
+===============================================================
+SMS_IFM_Advanced AOI
+Created by: Bhvani Nakum - Festo US
+Modified by: Bhvani Nakum - Festo US
+-------------------------------------------------------------------------------------------------------
+Version Date of Release
+V1.0 24.10.2023
+
+V1.1 30.04.2024
+-------------------------------------------------------------------------------------------------------
+Changes in Library:
+V1.0 - Development Completed
+
+V1.1 – Input parameter “In_ProcessDataLength” added to configure the length of the IO-Link process 
+data

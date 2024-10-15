@@ -1,0 +1,8 @@
+===============================================================
+CPX-E EtherCAT Master Control of CPX-AP-A EtherCAT Rack and CPX-AP-I Extension Modules
+-------------------------------------------------------------------------------------------------------
+Version Date of Release
+V1.0 15.10.2024
+-------------------------------------------------------------------------------------------------------
+Changes in Library:
+V1.0 - Video Released and Change History created

@@ -1,0 +1,16 @@
+==============================================================
+IFM IO-Link Master Parameterization from Parameter Set File and IO-Link Device Replacement
+==============================================================
+-------------------------------------------------------------------------------------------------------------
+-----------
+Version Date of Release
+V1.0	Dec 10, 2024
+-------------------------------------------------------------------------------------------------------------
+-----------
+Changes In Zipped Files
+V1.0
+---Development completed
+---Including .lrp, which is an IFM IO-Link Master Parameter Set File. It can be used to parameterize an entire
+---IOLM
+---Only 1 Port was parameterized for this initial release using VAEM-L1-S-16-PT I-Port interface to VTUG 12 
+---valve terminal

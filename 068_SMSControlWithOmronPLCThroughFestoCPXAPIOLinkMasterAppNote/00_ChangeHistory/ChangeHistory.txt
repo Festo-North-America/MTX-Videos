@@ -1,0 +1,16 @@
+==============================================================
+How to setup the SMS Control with Omron PLC through EtherCAT by Festo CPX-AP-.- IO-Link Master Standard Application Note
+==============================================================
+-------------------------------------------------------------------------------------------------------------
+-----------
+Version     Date of Release     Modified By
+V1.0	    Mar 17, 2025        Us0cgrt
+-------------------------------------------------------------------------------------------------------------
+-----------
+Changes In Zipped Files
+V1.0
+---Initial release. 
+---Example provided here is based on ApplicationNoteSMS-Control with Omron PLC through EtherCAT by Festo CPX-AP-I IO-Link Master#100475V1.20, version 1.20.
+---No changes to the function blocks were made. 
+---No changes to the IODD or ESI were made. 
+

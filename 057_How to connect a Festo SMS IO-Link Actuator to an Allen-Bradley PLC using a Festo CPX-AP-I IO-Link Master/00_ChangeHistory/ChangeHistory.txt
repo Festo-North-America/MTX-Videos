@@ -1,0 +1,15 @@
+==========================================================================================================
+	Festo SMS IO-Link control with Allen-Bradley PLC using a Festo CPX-AP-I IO-Link Master
+==========================================================================================================
+-------------------------------------------------------------------------------------------------------------
+-----------
+Version     Date of Release     Modified By
+V1.0	    Feb 11, 2025        US0DPPC
+-------------------------------------------------------------------------------------------------------------
+-----------
+Changes In Zipped Files
+V1.0
+---Initial release. 
+---The Festo HQ Application Note and Sample Code Resource was the starting point for this video production.
+---The YouTube video description has the link to these resources
+

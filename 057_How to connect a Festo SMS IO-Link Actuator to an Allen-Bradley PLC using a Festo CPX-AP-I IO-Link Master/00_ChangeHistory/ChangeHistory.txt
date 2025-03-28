@@ -10,6 +10,6 @@ V1.0	    Feb 11, 2025        US0DPPC
 Changes In Zipped Files
 V1.0
 ---Initial release. 
----The Festo HQ Application Note and Sample Code Resource was the starting point for this video production.
+---The Festo HQ Application Note and Sample Code Resource was the starting point for this video production CMMT servo drive commissioning with Allen-Bradley PLC trough Ethernet/IP network V2.8
 ---The YouTube video description has the link to these resources
 

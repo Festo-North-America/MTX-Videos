@@ -1,0 +1,15 @@
+==========================================================================================================
+	Festo CMMT-AS control with Allen-Bradley PLC using an AOI for PTP and Fixed Stop motion
+==========================================================================================================
+-------------------------------------------------------------------------------------------------------------
+-----------
+Version     Date of Release     Modified By
+V1.0	    Apr 02, 2025        US0DPPC
+-------------------------------------------------------------------------------------------------------------
+-----------
+Changes In Zipped Files
+V1.0
+---Initial release. 
+---The Festo HQ Application Note and Sample Code Resource was the starting point for this video production CMMT servo drive commissioning 	with Allen-Bradley PLC trough Ethernet/IP network V2.8
+---The YouTube video description has the link to these resources
+

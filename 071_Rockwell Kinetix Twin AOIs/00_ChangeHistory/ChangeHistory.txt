@@ -1,0 +1,16 @@
+==============================================================
+Rockwell Kinetix Twin AOI's CMMT-AS/ST
+==============================================================
+-------------------------------------------------------------------------------------------------------------
+-----------
+Version     Date of Release     Modified By
+V1.5	    4/30/2025            Us0jckt
+-------------------------------------------------------------------------------------------------------------
+-----------
+Changes In Zipped Files
+V1.0
+---Initial release. 
+V1.5
+---Updated initial release with fix for cascading issue when using different modes. Ex.. absolute move on rung 10 and record table move on
+rung 11. Record table would not execute.
+---Updated .DN bit to be on when MAM is initiated regardless of whether the MAM faults during an .IP (in process)

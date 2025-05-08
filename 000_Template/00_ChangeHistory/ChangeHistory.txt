@@ -4,13 +4,10 @@ Title of Video Here
 -------------------------------------------------------------------------------------------------------------
 -----------
 Version     Date of Release     Modified By
-V1.0	    Jan 01, 1999        Us0cgrt
+V1.0	    Jan 01, 1999        Us0xxxx
 -------------------------------------------------------------------------------------------------------------
 -----------
 Changes In Zipped Files
 V1.0
----Initial release. 
----Add other pertienent notes here, related to changes. Place Documentation type or User type comments and guidance in the subfolder 10_Documentation if applicable.
-Most videos will not need a Documentation folder and should only have a 00_ChangeHistory and 99_CurrentFullZip sub-folders.  
----If initial release, it may be necessary to note what this release was based on if a Festo HQ Application Note or other resource was the starting point. 
+ADD RELEASE/VERSION NOTES RELEVANT TO THE VIDEO HERE, NOT FOR THE FILES THEMSELVES 
 

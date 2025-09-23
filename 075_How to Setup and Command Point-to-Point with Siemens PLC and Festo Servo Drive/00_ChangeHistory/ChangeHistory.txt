@@ -1,0 +1,13 @@
+==============================================================
+How to Setup and Command Point-to-Point with Siemens PLC and Festo Servo Drive
+==============================================================
+-------------------------------------------------------------------------------------------------------------
+-----------
+Version     Date of Release     Modified By
+V1.0	    Aug 6, 2025            Us0rylm
+-------------------------------------------------------------------------------------------------------------
+-----------
+Changes In Zipped Files
+V1.0
+---Initial release. 
+---The Festo HQ Application Note was the starting point for the video production with a focus on Festo_Drives_PN_PtP Function Block.

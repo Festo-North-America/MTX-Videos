@@ -5,8 +5,11 @@ How to Use a CMMT Drive with IO Control Only and No Fieldbus
 -----------
 Version Date of Release
 V1.0	Feb 27, 2025
+V1.1	April 18, 2026
 -------------------------------------------------------------------------------------------------------------
 -----------
 Changes In Zipped Files
 V1.0
 ---Initial release
+V1.1
+---Added .json file to zip file for importing the record table rather than using FAS archive
